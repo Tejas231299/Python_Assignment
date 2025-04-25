@@ -1,1 +1,3 @@
-# Python_Assign
+name = input()
+colour = input()
+print(name,colour)
